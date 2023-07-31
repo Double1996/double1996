@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Who am I?
 
-Major in software engineering.
+Who am I? 
 
-Love open source and GNU/Linux(Manjaro Linux user).
+I am a software engineering major who loves open source and GNU/Linux.
 
-Always hungry for programming and new technolog
+I am a user of Manjaro Linux. 
+
+I am always hungry for programming and learning about new technologies.
